@@ -1,4 +1,4 @@
-# Habit Tracker
+# Habit Tracker (habit-tracker-gallegos)
 
 App para registrar y dar seguimiento a hábitos personales.
 
